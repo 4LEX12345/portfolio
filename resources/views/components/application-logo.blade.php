@@ -1,0 +1,1 @@
+<img src="{{ asset('pcww-solutions-logo.png')}}" alt="FurPlace logo" class="w-[50px] h-[40px] m-2">
